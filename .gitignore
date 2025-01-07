@@ -1,0 +1,19 @@
+# Ignore system files and folders
+*.lnk
+*.exe
+*.log
+*.tmp
+.DS_Store
+Thumbs.db
+
+# Ignore IDE/Editor-specific folders
+.vscode/
+.idea/
+node_modules/
+
+# Ignore Windows-specific files
+NTUSER.DAT
+ntuser.ini
+Desktop/
+Downloads/
+AppData/
